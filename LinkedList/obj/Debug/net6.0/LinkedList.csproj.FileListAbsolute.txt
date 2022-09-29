@@ -1,0 +1,15 @@
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/bin/Debug/net6.0/LinkedList
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/bin/Debug/net6.0/LinkedList.deps.json
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/bin/Debug/net6.0/LinkedList.runtimeconfig.json
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/bin/Debug/net6.0/LinkedList.dll
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/bin/Debug/net6.0/LinkedList.pdb
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/obj/Debug/net6.0/LinkedList.csproj.AssemblyReference.cache
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/obj/Debug/net6.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/obj/Debug/net6.0/LinkedList.AssemblyInfoInputs.cache
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/obj/Debug/net6.0/LinkedList.AssemblyInfo.cs
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/obj/Debug/net6.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/obj/Debug/net6.0/LinkedList.dll
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/obj/Debug/net6.0/refint/LinkedList.dll
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/obj/Debug/net6.0/LinkedList.pdb
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/obj/Debug/net6.0/LinkedList.genruntimeconfig.cache
+/Users/sababuvercetti/Projects/AlgoExpertLearn/LinkedList/obj/Debug/net6.0/ref/LinkedList.dll
